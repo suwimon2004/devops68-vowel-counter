@@ -1,0 +1,8 @@
+{
+  "name": "vowel-counter",
+  "version": "1.0.0",
+  "description": "API to count vowels in text",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "license": "MIT"
+}
