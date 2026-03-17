@@ -1,5 +1,5 @@
 {
-  "name": "vowel-counter",
+  "name": "devops68-vowel-counter",
   "version": "1.0.0",
   "description": "API to count vowels in text",
   "main": "index.js",
